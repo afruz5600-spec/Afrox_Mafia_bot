@@ -1,0 +1,16 @@
+# Python kesh fayllari
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual muhit
+venv/
+ENV/
+.env
+
+# IDE sozlamalari
+.vscode/
+.idea/
+
+# Loglar
+*.log
